@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/Jason-Boodhan23/netflix-mern/issues"
   },
-  "homepage": "https://github.com/Jason-Boodhan23/netflix-mern#readme"
+  "homepage": "https://github.com/Jason-Boodhan23/netflix-mern#readme",
+  "dependencies": {
+    "axios": "^1.8.2",
+    "bcryptjs": "^3.0.2",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.12.1"
+  }
 }
